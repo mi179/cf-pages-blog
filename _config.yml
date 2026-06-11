@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: JourneyMind
+subtitle: 技术笔记 / 项目记录
+description: 记录个人项目、网络工具、Cloudflare、自动化和折腾过程
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: mi179
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://journeymind.blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
