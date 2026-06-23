@@ -6,7 +6,7 @@
 title: JourneyMind
 subtitle: 技术笔记 / 项目记录
 description: 记录个人项目、网络工具、Cloudflare、自动化和折腾过程
-keywords:
+keywords: Cloudflare, CampusNet Guard, Python, Linux, VPS, 自动化, 项目记录
 author: mi179
 language: zh-CN
 timezone: Asia/Shanghai
@@ -65,7 +65,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: notes
 category_map:
 tag_map:
 

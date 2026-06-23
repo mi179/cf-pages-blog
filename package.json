@@ -1,12 +1,13 @@
 {
-  "name": "hexo-site",
+  "name": "journeymind-blog",
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate",
+    "build": "hexo clean && hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server"
+    "server": "hexo server",
+    "preview": "hexo server"
   },
   "hexo": {
     "version": "8.1.2"
@@ -22,5 +23,6 @@
     "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0"
-  }
+  },
+  "description": "JourneyMind personal project notes and product stories"
 }
